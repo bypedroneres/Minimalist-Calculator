@@ -32,3 +32,5 @@ The Minimalist Calculator features a sleek and minimalistic design. The color pa
 <h5>https://bypedroneres.github.io/Minimalist-Calculator/</h5>
 
 <h4>✹ Thanks for your interest! ✹</h4>
+
+Feel free to explore the Minimalist Calculator project and try it out for yourself. I hope this calculator provides a hassle-free and efficient solution for your arithmetic calculations. If you have any feedback or suggestions, please don't hesitate to reach out. Happy calculating!
